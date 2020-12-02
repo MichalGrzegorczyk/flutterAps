@@ -1,0 +1,7 @@
+{
+    "title": "Tytuł mojej aplikacji",
+    "times": "Nacisnąłeś przycisk tyle razy:",
+    "times2": "{count, plural, =0{zero razy} =1{jeden raz} other{{count} razy}}",
+    "welcome": "Zarobiłeś {number}",
+    "today": "Dzisiaj jest {date}"
+}

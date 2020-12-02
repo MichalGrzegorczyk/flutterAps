@@ -1,0 +1,6 @@
+{
+    "title": "アプリケーションタイトル",
+    "times": "Nacisnąłeś przycisk tyle razy:",
+    "times2": "{count, plural, =0{ゼロ} =1{一} other{{count}}}",
+    "welcome": "今日 {number}"
+}

@@ -1,0 +1,9 @@
+
+{
+    "title": "App Titel",
+    "times": "Sie haben den Button gedrückt",
+    "times2": "{count, plural, other{{count} -mal}}",
+    "welcome": "Sie haben {number} profitieren.",
+    "today": "Heute haben wir {date}"
+}
+

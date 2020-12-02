@@ -1,0 +1,40 @@
+{
+    "title": "Title of the application",
+    "@title": {
+        "description": "title of the application"
+    },
+
+    "times": "You have pushed the button this many times:",
+    "@times": {},
+
+    "times2": "{count, plural, =0{zero} =1{one time} other{{count} times}}",
+    "@times2": {
+        "placeholders": {
+            "count": {}
+        }
+    },
+    
+
+    "welcome": "You have earned: {number}",
+    "@welcome": {
+        "placeholders": {
+            "number": {
+                "type": "double",
+                "format": "simpleCurrency"
+            }
+        }
+    },
+
+    
+    "today": "Today is {date}",
+    "@today": {
+        "description": "A message with a date parameter",
+        "placeholders": {
+            "date": {
+                "type": "DateTime",
+                "format": "yMMMMd"
+            }
+
+        }
+    }
+}
